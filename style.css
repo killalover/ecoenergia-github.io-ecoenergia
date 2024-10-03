@@ -1,0 +1,277 @@
+body {
+    font-family: Montserrat;
+    margin: 0;
+    padding: 0;
+    background-color: #f5f4f3;
+}
+header {
+    background-color: #ffffff;
+    padding: 10px 200px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 10px solid #427ae0; 
+}
+
+header img {
+    height: 100px;
+}
+
+.eco {
+    position: relative;
+    height: 25px;
+    right: 500px;
+}
+
+nav a {
+    color: #364bb4;
+    text-decoration: none;
+    margin: 0 15px;
+    font-size: 16px;
+}
+
+.texto p {
+    text-align: center;
+    height: 20px;
+    color: #333; 
+    font-size: 22px; 
+    font-weight: 2px; 
+    display: inline-block;
+    position: relative;
+    left: 210px;
+    bottom: 3px;
+
+}
+
+.texto h1 {
+    padding: 30px;
+    font-family: Comfortaa;
+    position: relative;
+    left: 740px;
+    color: #000000;
+    font-size: 30px;
+}
+
+.img1 {
+    position: relative;
+    height: 500px;
+    left: 340px;
+    top: 10px;
+}
+
+.h2 {
+    position: relative;
+    left: 360px;
+}
+
+.link1 {
+    position: relative;
+    left: 360px;
+    text-decoration: none;
+    color: #333;
+}
+
+.link4 {
+    position: relative;
+    left: 1130px;
+    bottom: 600px;
+    text-decoration: none;
+    color: #333;
+}
+
+.img2 {
+    position: relative;
+    height: 500px;
+    left: 1110px;
+    bottom: 576px;
+}
+
+.h22 {
+    position: relative;
+    left: 1130px;
+    bottom: 600px;
+}
+
+
+.link2 {
+    position: relative;
+    color: #333;
+}
+
+.text {
+   position: relative;
+   color: #333;
+   left: 400px;
+   font-size: 22px;
+   bottom: 300px;
+} 
+
+.title {
+    position: relative;
+    text-align: left;
+    font-size: 32px;
+    left: 400px;
+    font-family: Comfortaa;
+    bottom: 300px;
+}
+
+.fig1 {
+    position: relative;
+    left: 500px;
+    bottom: 80px;
+}
+
+.title2 {
+    position: relative;
+    color: #364bb4;
+    bottom: 210px;
+    left: 1050px;
+    font-size: 22px;
+}
+
+.text2 {
+    width: 617px; 
+    height: 195px; 
+    text-align: center;
+     color: #333; 
+     font-size: 21px; 
+     font-weight: 400; 
+     display: inline-block;
+    position: relative;
+    left: 870px;
+    bottom: 230px;
+}
+
+.fig2 {
+    position: relative;
+    right: 115px;
+    top: 10px;
+    width: 90px;
+}
+
+.title3 {
+    position: relative;
+    color: #364bb4;
+    bottom: 210px;
+    left: 1080px;
+    font-size: 22px;
+}
+
+.text3 {
+    width: 617px; 
+    height: 195px; 
+    text-align: center;
+     color: #333; 
+     font-size: 21px; 
+     font-weight: 400; 
+     display: inline-block;
+    position: relative;
+    left: 870px;
+    bottom: 230px;
+}
+
+
+.fig3 {
+    position: relative;
+    right: 115px;
+    top: 50px;
+    width: 90px;
+}
+
+.title4 {
+    position: relative;
+    color: #364bb4;
+    bottom: 210px;
+    left: 1060px;
+    font-size: 22px;
+}
+
+.text4 {
+    width: 617px; 
+    height: 195px; 
+    text-align: center;
+     color: #333; 
+     font-size: 21px; 
+     font-weight: 400; 
+     display: inline-block;
+    position: relative;
+    left: 870px;
+    bottom: 230px;
+
+}
+footer {
+    background-color: #364bb4;
+    height: 40%; 
+}
+
+ul {
+    display: flex;
+    list-style-type: none;  
+    margin: 40px;
+    justify-content: space-between;
+    padding: 10px 200px;
+}
+.link{
+    color: #ffffff;
+    font-size: 20px;
+}
+
+.link2 {
+    color: #ffffff;
+    padding: 0 5px;
+    font-size: 20px;
+}
+
+.linha {
+    padding: 2px;
+    background-color: #f2e4d6;
+}
+
+.endereco {
+    color: #ffffff;
+    left: 250px;
+    position: relative;
+    font-size: 17px;
+}
+
+.locaicon {
+    position: relative;
+    left: 180px;
+    top: 60px;
+}
+
+.contatos {
+    color: #ffffff;
+    position: relative;
+    font-size: 17px;
+    left: 1500px;
+    bottom: 130px;
+}
+
+.whatts {
+    position: relative;
+    left: 1450px;
+    bottom: 80px;
+    width: 30px;
+}
+
+.email {
+    position: relative;
+    left: 1415px;
+    bottom: 40px;
+    width: 30px;
+}
+
+.logo3 {
+    position: relative;
+    width: 290px;
+    left: 800px;
+    bottom: 180px;
+}
+
+.copyright {
+    color: #ffffff;
+    position: relative;
+    bottom: 180px;
+    left: 830px;
+}
